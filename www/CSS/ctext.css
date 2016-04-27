@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+.Titlu{
+	margin-left:15%;
+	padding: 6% 0px 0px 0px;
+	font:bold 40px "Times New Roman", Arial, Helvetica, Geneva, sans-serif;	
+	
+}
+
+#ForumT{
+	margin-left:5%;
+	padding: 3% 0px 0px 0px;
+	font:bold 40px "Times New Roman", Arial, Helvetica, Geneva, sans-serif;	
+	white-space:nowrap;	
+	
+	
+}
+#ForumT3{
+	margin-left:10%;
+	font:bold 30px "Times New Roman", Arial, Helvetica, Geneva, sans-serif;	
+	white-space:nowrap;	
+	text-decoration:none;
+	color:#000;
+		
+}
+#ForumT2{
+	margin-left:5%;
+	padding: 1% 0px 0px 0px;
+	font:bold 40px "Times New Roman", Arial, Helvetica, Geneva, sans-serif;	
+
+	
+}
+
+.login{
+	margin-left:7%;
+	padding: 2% 0% 0px 0px;
+	
+}
+.signup{
+	margin-left:7%;
+	padding: 2% 0% 0px 0px;
+	
+	
+}
+#Titlu2{
+	text-align:center;
+	padding: 20% 0px 0px 0px;
+	font:bold 40px "Times New Roman", Arial, Helvetica, Geneva, sans-serif;		
+}
+
+.Titlu3{
+	margin-left:7%;
+	padding: 3% 0px 0px 0px;
+	font:bold 30px "Times New Roman", Arial, Helvetica, Geneva, sans-serif;	
+	
+	
+}
+#Titlu4{
+	text-align:center;
+	padding: 10% 0px 0px 0px;
+	font:bold 40px "Times New Roman", Arial, Helvetica, Geneva, sans-serif;	
+	
+}
